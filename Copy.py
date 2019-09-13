@@ -24,7 +24,7 @@ autorizationforwork = {
 headersforwork = {'Content-Type': 'application/json',
                   'Authorization': ''}
 
-bot = telebot.TeleBot('861638739:AAGO3Tt7OaedDXcpVUww77LOuLgBgn6SOUw',threaded=False)
+bot = telebot.TeleBot('',threaded=False)
 
 Numberphone = ""
 family_name = ""
